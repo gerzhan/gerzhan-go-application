@@ -25,3 +25,21 @@ module github.com/gerzhan/gerzhan-go-application
 
 go 1.20
 ```
+
+## Создание файла `main.go` и запуск приложения
+
+```go
+package main
+
+import "fmt";
+
+func main() {
+	fmt.Println("Hello Word!")
+}
+```
+
+- запуск приложения
+
+```bash
+$go run ./main.go
+```
