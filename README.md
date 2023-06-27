@@ -38,8 +38,16 @@ func main() {
 }
 ```
 
-- запуск приложения
-
 ```bash
 $go run ./main.go
+```
+
+## Сборка приложения (исполняемого файла)
+
+```bash
+# -o [директория дял][имя файла приложения]
+$go build -o gerzhan-go-application main.go
+# запуск собранного приложения на macOS
+$./gerzhan-go-application
+Hello Word!
 ```
