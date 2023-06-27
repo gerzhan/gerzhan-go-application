@@ -2,6 +2,10 @@
 
 [github.com/gerzhan/gerzhan-go-application](https://github.com/gerzhan/gerzhan-go-application)
 
+<div align="center">
+<img title="GoLang" alt="GoLang" height=48 src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4"/>
+</div>
+
 ## Создание приложения на языке `Go`
 
 - подготовка директории для размещения кода
